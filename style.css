@@ -1,0 +1,27 @@
+html{
+    background-color: #2f4f4f;
+}
+h1{
+    color:white;
+    text-align: center;
+}
+table{
+    width: 640px;
+    margin: auto;
+    background-image: url(hatter.jpg);
+}
+td{
+    padding:5px;
+}
+.kep{
+    width:300px;
+    border: 2px solid black;
+
+    
+}
+#cimke{
+    font-size: 20px;
+}
+a{
+    color:black;
+}
